@@ -1,0 +1,31 @@
+_repo: Helen-of-Troy_3229
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Lang, Andrew
+    alias: Lang, Walter Andrew
+    birthdate: 1844
+    deathdate: 1912
+    gutenberg_agent_id: '79'
+    url: http://www.gutenberg.org/2009/agents/79
+    wikipedia: http://en.wikipedia.org/wiki/Andrew_Lang
+description: Scottish writer Andrew Lang is best remember for his prolific collections
+  of folk and fairy tales, but he was also an accomplished poet, literary critic,
+  novelist and contributor in the field of anthropology. In Lang's Helen of Troy,
+  a story in rhyme of the fortunes of Helen, the theory that she was an unwilling
+  victim of the Gods has been preferred. Many of the descriptions of manners are versified
+  from the Iliad and the Odyssey. The description of the events after the death ...
+gutenberg_issued: '2002-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3229'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Helen, of Troy, Queen of Sparta -- Poetry'
+- !lcc 'PR'
+- GITenberg
+title: Helen of Troy
+url: http://www.gutenberg.org/ebooks/3229
