@@ -1,5 +1,8 @@
 _repo: Helen-of-Troy_3229
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Lang, Andrew
@@ -15,6 +18,8 @@ description: Scottish writer Andrew Lang is best remember for his prolific colle
   a story in rhyme of the fortunes of Helen, the theory that she was an unwilling
   victim of the Gods has been preferred. Many of the descriptions of manners are versified
   from the Iliad and the Odyssey. The description of the events after the death ...
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/3229#Helen-of-Troy
 gutenberg_issued: '2002-05-01'
 gutenberg_type: Text
 identifiers:
